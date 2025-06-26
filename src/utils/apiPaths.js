@@ -1,4 +1,4 @@
-export const BASE_URL = "http://localhost:8000";
+export const BASE_URL = "https://project-management-uwiv.onrender.com";
 // export const BASE_URL = "https://task-manager-backend-auir.onrender.com";
 
 // utils/apiPaths.js
