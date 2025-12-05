@@ -3,6 +3,10 @@
 A robust and efficient **Project Management Application** designed to streamline **team collaboration**, **task tracking**, and **project planning**.  
 This solution uses a **decoupled architecture** with separate **Frontend** and **Backend** repositories for better scalability and maintainability.
 
+``` bash
+username = mukul12345
+password = mukul12345
+```
 ---
 
 ## Repository Structure
@@ -107,4 +111,5 @@ npm start
 
 # OR for development with nodemon
 npm run dev
+```
 
